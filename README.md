@@ -9,7 +9,7 @@ This is my personal portfolio website, showcasing my skills, projects, and exper
 * **Dark and Light Mode**: A switch is provided to toggle between dark and light modes for better accessibility.
 * **Secure Contact Form**: Uses Web3 form for secure communication.
 
-##Technologies Used
+## Technologies Used
 
 * `HTML` - For structuring the content
 * `Tailwind CSS` - For styling and layout
