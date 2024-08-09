@@ -11,10 +11,10 @@ This is my personal portfolio website, showcasing my skills, projects, and exper
 
 ##Technologies Used
 
-`HTML` - For structuring the content
-`Tailwind CSS` - For styling and layout
-`JavaScript` - For adding interactivity
-`Web3 form` - For secure form submissions
+* `HTML` - For structuring the content
+* `Tailwind CSS` - For styling and layout
+* `JavaScript` - For adding interactivity
+* `Web3 form` - For secure form submissions
 
 ## Demo
 
