@@ -16,7 +16,5 @@ This is my personal portfolio website, showcasing my skills, projects, and exper
 * `JavaScript` - For adding interactivity
 * `Web3 form` - For secure form submissions
 
-## Demo
 
-You can see a live demo of the app - https://personal-portfolio-tailwind-src.netlify.app
 
